@@ -8,7 +8,7 @@ Written in C# using .NET 6.0.
 The difference engine generates JSON files containing change records and OBJ files 
 representing the geometry which was added, removed, changed, resized, or moved. 
 
-We used Rhino to visualize the changes, and then certain   
+We used Rhino to visualize the changes, and then uploaded to as a webapp using   
 [https://github.com/sophXmoore1/compute.rhino3d.appserver-1](https://github.com/sophXmoore1/compute.rhino3d.appserver-1).
 
 ![Difference Engine Demo](/images/diff-eng-logo.gif?raw=true) 
