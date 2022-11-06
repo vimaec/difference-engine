@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vim.Difference.Engine": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\dev\\aectech-hackathon\\input-set-2"
+    }
+  }
+}
