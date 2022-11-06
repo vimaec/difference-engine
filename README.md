@@ -1,4 +1,4 @@
-# ![Difference Engine Logo](/images/images/diff-eng-logo.png?raw=true) Difference Engine
+# ![Difference Engine Logo](/images/diff-eng-logo.png?raw=true) Difference Engine
 
 A tool for calculating differences between BIM models as part of the AECTech 2022 Hackathon. 
 Written in C# using .NET 6.0.
