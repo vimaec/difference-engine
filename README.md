@@ -26,7 +26,7 @@ representing the geometry which was added, removed, changed, resized, or moved.
 We were able to process 10 VIM files (total 100MB), originating from 10 Revit files (total 300MB) in 5 seconds, to produce the OBJ and JSON files representing the deltas (change sets).  
 
 ## Team 
-
+ 
 Difference Engine team:
 
 * Augustina Aboy
