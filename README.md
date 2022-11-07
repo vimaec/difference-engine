@@ -23,7 +23,7 @@ representing the geometry which was added, removed, changed, resized, or moved.
 Grasshopper was used to load the deltas and geometry into Rhino, to display the geometry in 3D, to summarize and plot graphs in 2D, 
 and to navigate through the deltas in time. 
 
-A tool call the (Rhino Compute Appserver)[https://github.com/dav-leon/compute.rhino3d.appserver] was used to host Rhino and serve the data and visualizations over the web. 
+A tool call the [Rhino Compute Appserver](https://github.com/dav-leon/compute.rhino3d.appserver) was modified and used to host Rhino and serve the data and visualizations over the web. 
 
 ## Performance
 
