@@ -8,7 +8,7 @@ Written in 180 lines of C# using .NET 6.0 and VIM API.
 The Grasshopper scripts for loading visualizing the changes in 3D and as 2D graphs in Rhino, along with the web-app for hosting the visualization can be found at     
 [https://github.com/sophXmoore1/compute.rhino3d.appserver-1](https://github.com/sophXmoore1/compute.rhino3d.appserver-1).
 
-<img src="/images/diff-eng-logo.gif?raw=true" alt="Difference Engine Demo" width="400"/> 
+<img src="/images/difference-engine.gif?raw=true" alt="Difference Engine Demo" width="400"/> 
 
 ## Presentation 
 
