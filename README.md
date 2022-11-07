@@ -5,7 +5,7 @@
 This repository hosts a tool for calculating differences between BIM models as part of the AECTech 2022 Hackathon. 
 Written in 180 lines of C# using .NET 6.0 and VIM API.
 
-The Grasshopper scripts for visualizing the changes in Rhino, and the web-app for hosting the visualization can be found at     
+The Grasshopper scripts for loading visualizing the changes in 3D and as 2D graphs in Rhino, along with the web-app for hosting the visualization can be found at     
 [https://github.com/sophXmoore1/compute.rhino3d.appserver-1](https://github.com/sophXmoore1/compute.rhino3d.appserver-1).
 
 <img src="/images/diff-eng-logo.gif?raw=true" alt="Difference Engine Demo" width="400"/> 
@@ -20,13 +20,17 @@ or [view it online](https://docs.google.com/presentation/d/e/2PACX-1vQACg-x1aFof
 The difference engine generates JSON files containing change records and OBJ files 
 representing the geometry which was added, removed, changed, resized, or moved. 
 
+Grasshopper was used to load the deltas and geometry into Rhino, to display the geometry in 3D, to summarize and plot graphs in 2D, 
+and to navigate through the deltas in time. 
+
+A tool call the (Rhino Compute Appserver)[https://github.com/dav-leon/compute.rhino3d.appserver] was used to host Rhino and serve the data and visualizations over the web. 
 
 ## Performance
 
 We were able to process 10 VIM files (total 100MB), originating from 10 Revit files (total 300MB) in 5 seconds, to produce the OBJ and JSON files representing the deltas (change sets).  
 
 ## Team 
- 
+
 Difference Engine team:
 
 * Augustina Aboy
