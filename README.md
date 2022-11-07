@@ -9,8 +9,8 @@ Written in 180 lines of C# using .NET 6.0 and VIM API.
 
 ## Presentation 
 
-See our [presentation slides here as pdf](https://github.com/vimaec/difference-engine/blob/develop/difference-engine.pdf?raw=true) 
-or the [presentation here](https://docs.google.com/presentation/d/e/2PACX-1vQACg-x1aFofd81DWELVLJY2yO-RP7jlrJ1bo4S-GNAuMFsRksXI2CM3l_f8fXLCX8usKlyR1CrVL-r/pub?start=false&loop=false&delayms=3000&slide=id.g14f5d6737d2_5_0). 
+You can [download the presentation as pdf](https://github.com/vimaec/difference-engine/blob/develop/difference-engine.pdf?raw=true) 
+or [view it online](https://docs.google.com/presentation/d/e/2PACX-1vQACg-x1aFofd81DWELVLJY2yO-RP7jlrJ1bo4S-GNAuMFsRksXI2CM3l_f8fXLCX8usKlyR1CrVL-r/pub?start=false&loop=false&delayms=3000&slide=id.g14f5d6737d2_5_0). 
 
 ## How it works 
 
@@ -22,7 +22,7 @@ We used Rhino to visualize the changes, and then uploaded to as a webapp using
 
 ## Performance
 
-We were able to process 10 VIM files (total 100MB), originating from 10 Revit files (total 300MB) in 5 seconds, to produce the OBJ and JSON files representing the delta sets.  
+We were able to process 10 VIM files (total 100MB), originating from 10 Revit files (total 300MB) in 5 seconds, to produce the OBJ and JSON files representing the deltas (change sets).  
 
 ## Team 
 
