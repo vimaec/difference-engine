@@ -2,8 +2,11 @@
 
 # Difference Engine
 
-A tool for calculating differences between BIM models as part of the AECTech 2022 Hackathon. 
+This repository hosts a tool for calculating differences between BIM models as part of the AECTech 2022 Hackathon. 
 Written in 180 lines of C# using .NET 6.0 and VIM API.
+
+The Grasshopper scripts for visualizing the changes in Rhino, and the web-app for hosting the visualization can be found at     
+[https://github.com/sophXmoore1/compute.rhino3d.appserver-1](https://github.com/sophXmoore1/compute.rhino3d.appserver-1).
 
 <img src="/images/diff-eng-logo.gif?raw=true" alt="Difference Engine Demo" width="400"/> 
 
@@ -17,8 +20,6 @@ or [view it online](https://docs.google.com/presentation/d/e/2PACX-1vQACg-x1aFof
 The difference engine generates JSON files containing change records and OBJ files 
 representing the geometry which was added, removed, changed, resized, or moved. 
 
-We used Rhino to visualize the changes, and then uploaded to as a webapp using   
-[https://github.com/sophXmoore1/compute.rhino3d.appserver-1](https://github.com/sophXmoore1/compute.rhino3d.appserver-1).
 
 ## Performance
 
