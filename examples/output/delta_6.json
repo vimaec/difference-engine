@@ -1,0 +1,212 @@
+[
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Floors",
+    "FamilyName": "Floor",
+    "FamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "PreviousFamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "ElementId": 568877,
+    "Volume": 1705.7291,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419,
+      "Z": -0.20833333
+    },
+    "NodeIndex": 4
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Analytical Floors",
+    "FamilyName": "AnalyticalModelSurface",
+    "FamilyType": "AnalyticalModelSurface",
+    "PreviousFamilyType": "AnalyticalModelSurface",
+    "ElementId": 568878,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419
+    },
+    "NodeIndex": 5
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Structural Framing",
+    "FamilyName": "W Shapes",
+    "FamilyType": "W12X26",
+    "PreviousFamilyType": "W12X26",
+    "ElementId": 568906,
+    "Volume": 34.3654,
+    "Center": {
+      "X": -74.55532,
+      "Y": 18.36419,
+      "Z": -0.5083333
+    },
+    "NodeIndex": 7
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Structural Framing",
+    "FamilyName": "W Shapes",
+    "FamilyType": "W12X26",
+    "PreviousFamilyType": "W12X26",
+    "ElementId": 568932,
+    "Volume": 34.3654,
+    "Center": {
+      "X": -9.055323,
+      "Y": 18.36419,
+      "Z": -0.5083333
+    },
+    "NodeIndex": 10
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Floors",
+    "FamilyName": "Floor",
+    "FamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "PreviousFamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "ElementId": 568987,
+    "Volume": 1705.7305,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419,
+      "Z": 9.791666
+    },
+    "NodeIndex": 12
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Analytical Floors",
+    "FamilyName": "AnalyticalModelSurface",
+    "FamilyType": "AnalyticalModelSurface",
+    "PreviousFamilyType": "AnalyticalModelSurface",
+    "ElementId": 568988,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419,
+      "Z": 10.0
+    },
+    "NodeIndex": 13
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Structural Columns",
+    "FamilyName": "W Shapes-Column",
+    "FamilyType": "W14X43",
+    "PreviousFamilyType": "W14X43",
+    "ElementId": 569179,
+    "Volume": 6.8499956,
+    "Center": {
+      "X": -59.55532,
+      "Y": 37.61419,
+      "Z": -4.5
+    },
+    "NodeIndex": 15
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Structural Columns",
+    "FamilyName": "W Shapes-Column",
+    "FamilyType": "W14X43",
+    "PreviousFamilyType": "W14X43",
+    "ElementId": 569273,
+    "Volume": 6.8499956,
+    "Center": {
+      "X": -42.55532,
+      "Y": 37.61419,
+      "Z": -4.5
+    },
+    "NodeIndex": 18
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Structural Columns",
+    "FamilyName": "W Shapes-Column",
+    "FamilyType": "W14X43",
+    "PreviousFamilyType": "W14X43",
+    "ElementId": 569428,
+    "Volume": 6.8500347,
+    "Center": {
+      "X": -22.055323,
+      "Y": 37.61419,
+      "Z": -4.5
+    },
+    "NodeIndex": 21
+  },
+  {
+    "ChangeType": "Moved",
+    "Category": "Structural Columns",
+    "FamilyName": "W Shapes-Column",
+    "FamilyType": "W14X43",
+    "PreviousFamilyType": "W14X43",
+    "ElementId": 569645,
+    "Volume": 6.8499746,
+    "VolumeChange": 4.7683716E-07,
+    "Center": {
+      "X": -59.55532,
+      "Y": 2.1141899,
+      "Z": -4.5
+    },
+    "DistanceMoved": 3.0,
+    "NodeIndex": 24
+  },
+  {
+    "ChangeType": "Moved",
+    "Category": "Structural Columns",
+    "FamilyName": "W Shapes-Column",
+    "FamilyType": "W14X43",
+    "PreviousFamilyType": "W14X43",
+    "ElementId": 569647,
+    "Volume": 6.8499746,
+    "VolumeChange": 4.7683716E-07,
+    "Center": {
+      "X": -42.55532,
+      "Y": 2.1141899,
+      "Z": -4.5
+    },
+    "DistanceMoved": 3.0,
+    "NodeIndex": 27
+  },
+  {
+    "ChangeType": "Moved",
+    "Category": "Structural Columns",
+    "FamilyName": "W Shapes-Column",
+    "FamilyType": "W14X43",
+    "PreviousFamilyType": "W14X43",
+    "ElementId": 569649,
+    "Volume": 6.8500137,
+    "VolumeChange": 4.7683716E-07,
+    "Center": {
+      "X": -22.055323,
+      "Y": 2.1141899,
+      "Z": -4.5
+    },
+    "DistanceMoved": 3.0,
+    "NodeIndex": 30
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "1/4\" Head",
+    "ElementId": 329,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878
+    },
+    "NodeIndex": 33
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "1/4\" Head",
+    "ElementId": 32567,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878,
+      "Z": 10.0
+    },
+    "NodeIndex": 35
+  }
+]

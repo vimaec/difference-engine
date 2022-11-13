@@ -1,0 +1,116 @@
+[
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Floors",
+    "FamilyName": "Floor",
+    "FamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "PreviousFamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "ElementId": 568877,
+    "Volume": 1705.7291,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419,
+      "Z": -0.20833333
+    },
+    "NodeIndex": 4
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Analytical Floors",
+    "FamilyName": "AnalyticalModelSurface",
+    "FamilyType": "AnalyticalModelSurface",
+    "PreviousFamilyType": "AnalyticalModelSurface",
+    "ElementId": 568878,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419
+    },
+    "NodeIndex": 5
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Structural Framing",
+    "FamilyName": "W Shapes",
+    "FamilyType": "W12X26",
+    "PreviousFamilyType": "W12X26",
+    "ElementId": 568906,
+    "Volume": 34.3654,
+    "Center": {
+      "X": -74.55532,
+      "Y": 18.36419,
+      "Z": -0.5083333
+    },
+    "NodeIndex": 7
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Structural Framing",
+    "FamilyName": "W Shapes",
+    "FamilyType": "W12X26",
+    "PreviousFamilyType": "W12X26",
+    "ElementId": 568932,
+    "Volume": 34.3654,
+    "Center": {
+      "X": -9.055323,
+      "Y": 18.36419,
+      "Z": -0.5083333
+    },
+    "NodeIndex": 10
+  },
+  {
+    "ChangeType": "Addition",
+    "Category": "Floors",
+    "FamilyName": "Floor",
+    "FamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "PreviousFamilyType": "",
+    "ElementId": 568987,
+    "Volume": 1705.7305,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419,
+      "Z": 9.791666
+    },
+    "NodeIndex": 12
+  },
+  {
+    "ChangeType": "Addition",
+    "Category": "Analytical Floors",
+    "FamilyName": "AnalyticalModelSurface",
+    "FamilyType": "AnalyticalModelSurface",
+    "PreviousFamilyType": "",
+    "ElementId": 568988,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419,
+      "Z": 10.0
+    },
+    "NodeIndex": 13
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "1/4\" Head",
+    "ElementId": 329,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878
+    },
+    "NodeIndex": 15
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "1/4\" Head",
+    "ElementId": 32567,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878,
+      "Z": 10.0
+    },
+    "NodeIndex": 17
+  }
+]

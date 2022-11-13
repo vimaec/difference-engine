@@ -1,0 +1,57 @@
+[
+  {
+    "ChangeType": "Addition",
+    "Category": "Floors",
+    "FamilyName": "Floor",
+    "FamilyType": "3\" LW Concrete on 2\" Metal Deck",
+    "PreviousFamilyType": "",
+    "ElementId": 568877,
+    "Volume": 1705.7291,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419,
+      "Z": -0.20833333
+    },
+    "NodeIndex": 4
+  },
+  {
+    "ChangeType": "Addition",
+    "Category": "Analytical Floors",
+    "FamilyName": "AnalyticalModelSurface",
+    "FamilyType": "AnalyticalModelSurface",
+    "PreviousFamilyType": "",
+    "ElementId": 568878,
+    "Center": {
+      "X": -41.80532,
+      "Y": 18.36419
+    },
+    "NodeIndex": 5
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "1/4\" Head",
+    "ElementId": 329,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878
+    },
+    "NodeIndex": 7
+  },
+  {
+    "ChangeType": "Unchanged",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "1/4\" Head",
+    "ElementId": 32567,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878,
+      "Z": 10.0
+    },
+    "NodeIndex": 9
+  }
+]

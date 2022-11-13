@@ -1,0 +1,29 @@
+[
+  {
+    "ChangeType": "Addition",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "",
+    "ElementId": 329,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878
+    },
+    "NodeIndex": 5
+  },
+  {
+    "ChangeType": "Addition",
+    "Category": "Levels",
+    "FamilyName": "Level",
+    "FamilyType": "1/4\" Head",
+    "PreviousFamilyType": "",
+    "ElementId": 32567,
+    "Center": {
+      "X": -110.64708,
+      "Y": -52.756878,
+      "Z": 10.0
+    },
+    "NodeIndex": 7
+  }
+]
